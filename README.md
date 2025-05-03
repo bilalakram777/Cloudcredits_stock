@@ -1,0 +1,2 @@
+Stock Price Prediction using LSTM
+This project uses a Long Short-Term Memory (LSTM) neural network to predict the closing prices of Apple Inc. (AAPL) stock. Historical stock data from Yahoo Finance (2015–2024) is preprocessed using MinMax scaling and trained on 60-day sequences. The model is evaluated using Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE), and results are visualized with a comparison of actual vs. predicted prices.
